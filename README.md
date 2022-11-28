@@ -1,4 +1,2 @@
-# Coursera
-Sample Page
-theme: minima
+theme: minimal
 remote_theme: benbalter/retlab
